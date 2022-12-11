@@ -1,7 +1,9 @@
-Affirmations App - Starter Code
+Google-Compose-2022-World-Cup-Quarterfinal
 ================================
 
 Starter code for the Android Basics in Compose: Affirmations app.
+
+But editting with image from World Cup 2022 with Quarterfinal's team squad.
 
 Pre-requisites
 --------------
